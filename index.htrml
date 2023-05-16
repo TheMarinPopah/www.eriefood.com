@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<!--
+Created using JS Bin
+http://jsbin.com
+
+Copyright (c) 2023 by TheMarinPopah (http://jsbin.com/toyiven/1/edit)
+
+Released under the MIT license: http://jsbin.mit-license.org
+-->
+<meta name="robots" content="noindex">
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>www.eriefood.com</title>
+        <style>
+            body {
+                background-color: rgb(42, 16, 145);
+            }
+            h1 {
+                color: orange;
+            }
+            #pic {
+                border: 15px inset rgb(160, 247, 102);
+                margin-left: 10px;
+                margin-right: 5px;
+                margin-bottom: 12px;
+                float: left;
+            }
+            .text1 {
+                  background-color: rgb(35, 250, 35);
+                  border: 3px dashed orange;
+                  width: 50%;
+                  margin-left: 1px;
+                  float: right;
+                  font-weight: 900;
+            }
+            #phones {
+                text-align: center;
+                background-color: rgb(250, 155, 30);
+                clear: left;
+                margin-top: 4px;
+            }
+        </style>
+    <style id="jsbin-css">
+<style>
+            body {
+                background-color: rgb(42, 16, 145);
+            }
+            h1 {
+                color: orange;
+            }
+            #pic {
+                border: 15px inset rgb(160, 247, 102);
+                margin-left: 10px;
+                margin-bottom: 12px;
+                float: left;
+            }
+            .text1 {
+                  background-color: rgb(35, 250, 35);
+                  border: 3px dashed orange;
+                width: 52%;
+              height: 31%;
+                margin-left: 1px;
+                float: right;
+            }
+            #phones {
+                text-align: center;
+                background-color: rgb(250, 155, 30);
+                clear: left;
+                margin-top: 4px;
+            }
+        </style>
+</style>
+</head>
+    <body>
+    <h1>Welcome to Erie Food!</h1>
+    <img id="pic" src="https://townsquare.media/site/156/files/2021/03/Pizza-GettyImages-1042948900-1.jpg" width="671" alt="burger">
+    <div class="text1"><p>welcome to erie food!<br>this is the Erie Food website!<br> Here we will show you our special deals and our menus!
+    </p>
+    <h1 id="thankser">Thank You!</h1></div>
+    <p></p>
+      <div id="phones"> <p>Phone numbers<br>Pizz 1/Store:<strong>(734)848-4509</strong><br>Pizza:<strong>(734)848-4920</strong></p><p>Created by:<strong>Naramsin Pattah</strong></p></div>
+    </body>
+</html>
